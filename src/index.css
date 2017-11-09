@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.edit-button {
+  color: #3b8cce;
+}
+.edit-button:hover {
+  cursor: pointer;
+  color: red;
+}
+.display3{
+  font-size:32px;
+}
+
+.display2{
+  font-size: 24px;
+}
+
+.display1{
+  font-size: 20px;
+}
+
+.headline{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.title{
+  font-size:14px;
+  font-weight: bold;
+}
+
+.body-bold {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.body{
+  font-size: 12px;
+}
+
+.body2{
+  font-size: 14px;
+}
+
+.caption{
+  font-size:12px;
+  color: rgba(0,0,0,0.43);
+}

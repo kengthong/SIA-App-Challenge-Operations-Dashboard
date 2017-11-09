@@ -1,0 +1,15 @@
+
+.inventory-modal-spacing {
+  padding: 10px;
+}
+.inventory-modal{
+  min-width: 700px !important;
+}
+/*
+.ant-btn-dashed {
+  color:black !important;
+  background-color: #FCB130FF !important;
+  border-color: #FCB130FF !important;
+  border-style: none !important;
+  opacity: .70;
+}*/

@@ -1,0 +1,11 @@
+/*.ant-btn-dashed {
+  color:black !important;
+  background-color: #FCB130FF !important;
+  border-color: #FCB130FF !important;
+  border-style: none !important;
+  opacity: .70;
+}*/
+
+.cargo-modal {
+  min-width: 700px;
+}
